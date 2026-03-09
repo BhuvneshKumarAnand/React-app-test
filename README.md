@@ -37,8 +37,8 @@ A simple **Tic Tac Toe game built with React and Vite**, featuring a clean UI an
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/BhuvneshKumarAnand/React-app-test.git
-cd React-app-test
+git clone https://github.com/BhuvneshKumarAnand/tic-tac-toe-react.git
+cd tic-tac-toe-react
 ```
 
 ### 2️⃣ Install Dependencies
