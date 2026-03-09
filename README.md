@@ -1,20 +1,116 @@
-# React + Vite
+Here is a **clean, professional, and improved README** for your project. It adds proper sections, instructions, and formatting so it looks good on GitHub.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# 🎮 Tic Tac Toe – React + Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A simple **Tic Tac Toe game built with React and Vite**, featuring a clean UI and fast performance. The project demonstrates how to build an interactive game using modern React practices.
 
-## React Compiler
+🌐 **Live Demo:**
+[https://react-app-test-ten-omega.vercel.app/](https://react-app-test-ten-omega.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+# 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **React** – UI library for building interactive interfaces
+* **Vite** – Fast development build tool
+* **JavaScript (ES6+)**
+* **CSS** – Styling for the game UI
+* **Vercel** – Deployment and hosting
 
-## I have hosted Tic Tac Toe game with vercel
+---
 
-* URL: https://react-app-test-ten-omega.vercel.app/
+# ⚡ Features
+
+* Classic **Tic Tac Toe gameplay**
+* Interactive **3×3 board**
+* **Real-time player turns (X / O)**
+* **Winner detection**
+* **Game reset functionality**
+* **Responsive and clean UI**
+
+---
+
+# 🛠️ Development Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/BhuvneshKumarAnand/React-app-test.git
+cd React-app-test
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run Development Server
+
+```bash
+npm run dev
+```
+
+The app will run at:
+
+```
+http://localhost:5173
+```
+
+---
+
+# 📦 Build for Production
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+---
+
+# 🔧 Vite React Plugins
+
+This project uses the official **React plugin for Vite** to enable Fast Refresh.
+
+Two official plugins are available:
+
+* **@vitejs/plugin-react** – Uses Babel for Fast Refresh
+* **@vitejs/plugin-react-swc** – Uses SWC for faster compilation
+
+---
+
+# ☁️ Deployment
+
+This project is deployed using **Vercel**.
+
+To deploy your own version:
+
+1. Push the project to GitHub
+2. Import the repository in **Vercel**
+3. Deploy automatically
+
+---
+
+# 📚 Future Improvements
+
+* Add **score tracking**
+* Add **player vs computer (AI)**
+* Improve **UI animations**
+* Add **sound effects**
+
+---
+
+# 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+If you want, I can also help you add **screenshots, badges, and GitHub stats** so your README looks **10x more impressive for recruiters**.
